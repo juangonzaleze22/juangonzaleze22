@@ -1,4 +1,4 @@
-<img src="./assets/Hand Wave.gif" width="20" height="20">&nbsp; <h2>Hey there! Juan Gonzalez</h2>
+<h2><img src="./assets/Hand Wave.gif" width="40" height="40">&nbsp;Hey there! Juan Gonzalez</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -31,8 +31,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
-<br>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
