@@ -31,7 +31,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+##### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
     <a href="https://juangonzaleze.netlify.app/" target="_blank">
@@ -47,6 +47,6 @@
         <img src="https://img.shields.io/badge/-@juangonzaleze-E4405F?style=flat&logo=Instagram&logoColor=white"/>
     </a>
     <a href="https://facebook.com/765667497" target="_blank">
-        <img src="https://img.shields.io/badge/-@765667497-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-@Juan%20Gonzalez-1877F2?style=flat&logo=Facebook&logoColor=white"/>
     </a>
 </p>
